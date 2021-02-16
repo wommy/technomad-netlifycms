@@ -1,0 +1,12 @@
+{
+  "name": "technomad-netlifycms",
+  "version": "1.0.0",
+  "description": "technomad cms build with netlifycms",
+  "main": "index.js",
+  "repository": "git@github.com:wommy/technomad-netlifycms.git",
+  "author": "wommy <tom@technomad.media>",
+  "license": "MIT",
+  "dependencies": {
+    "netlify-cms-app": "^2.14.23"
+  }
+}
