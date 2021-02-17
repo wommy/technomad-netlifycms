@@ -3,12 +3,10 @@ backend:
   branch: dev
 media_folder: 'media/'
 collections:
-  - label: 'Art'
-    name: 'art'
+  - name: 'art'
+    label: 'Art'
     title: 'art'
     folder: 'art'
     create: true
-    editor:
-      preview: false
     fields:
-      - { label: 'title', name: 'Title', widget: 'string' }
+      - { label: 'Title', name: 'title', widget: 'string' }
