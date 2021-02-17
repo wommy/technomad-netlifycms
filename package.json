@@ -6,7 +6,5 @@
   "repository": "git@github.com:wommy/technomad-netlifycms.git",
   "author": "wommy <tom@technomad.media>",
   "license": "MIT",
-  "dependencies": {
-    "netlify-cms-app": "^2.14.23"
-  }
+  "dependencies": {}
 }

@@ -1,4 +1,13 @@
 backend:
   name: git-gateway
   branch: dev
-media_folder: media
+media_folder: 'media/'
+collections:
+  - label: 'Art'
+    name: 'art'
+    folder: 'art'
+    create: true
+    editor:
+      preview: false
+    fields:
+      - { label: 'title', name: 'Title', widget: 'string' }
