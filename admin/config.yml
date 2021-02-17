@@ -5,6 +5,7 @@ media_folder: 'media/'
 collections:
   - label: 'Art'
     name: 'art'
+    title: 'art'
     folder: 'art'
     create: true
     editor:
