@@ -10,7 +10,7 @@ collections:
       - name: 'art'
         label: 'Art'
         title: 'art'
-        file: '_data/art.yml'
+        file: 'data/art.yml'
         fields:
             - { label: 'Name', name: 'name', widget: 'string' }
             - { label: 'Image', name: 'img', widget: 'string' }
