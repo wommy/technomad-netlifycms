@@ -21,26 +21,18 @@ items:
     img: https://res.cloudinary.com/wommy/image/upload/v1598373214/annabrab/3993CB33-BFF3-427C-B70C-6F80377FF5E5_vpq5rj.jpg
     width: 2
     published: September, 2020
-    tags: 
   - title: defect
     img: https://res.cloudinary.com/wommy/image/upload/v1595088745/annabrab/defect_vtvklr.jpg
     width: 1
-    published: 
-    tags: 
   - title: celery
     img: https://res.cloudinary.com/wommy/image/upload/v1595088751/annabrab/celery_vswuoz.jpg
     width: 1
-    published: 
-    tags: 
   - title: trash
     img: https://res.cloudinary.com/wommy/image/upload/v1595088748/annabrab/trash_xwobvu.jpg
     width: 1
-    published:
-    tags: 
   - title: barely sipped
     img: https://res.cloudinary.com/wommy/image/upload/v1581530959/annabrab/barely_sipped_x2zw1d.jpg
     width: 1
-    published: 
     tags:
       - 'charcoal'
       - 'oil'
@@ -49,7 +41,6 @@ items:
   - title: untitled monoprint
     img: https://res.cloudinary.com/wommy/image/upload/v1581530986/annabrab/untitled_monoprint_zrdyg0.jpg
     width: 1
-    published:
     tags:
       - 'pastels'
       - 'ink'
@@ -57,14 +48,12 @@ items:
   - title: idk
     img: https://res.cloudinary.com/wommy/image/upload/v1581530952/annabrab/idk_yf82no.jpg
     width: 1
-    published: 
     tags:
       - 'collage'
       - 'on canvas'
   - title: data
     img: https://res.cloudinary.com/wommy/image/upload/v1585947096/annabrab/data_yqfcpf.jpg
     width: 1
-    published:
     tags:
       - 'acrylic'
       - 'oil pastel'
@@ -72,7 +61,6 @@ items:
   - title: untitled
     img: https://res.cloudinary.com/wommy/image/upload/v1581530983/annabrab/untitled_l0janl.jpg
     width: 1
-    published:
     tags:
       - 'oil'
       - 'paint'
@@ -80,7 +68,6 @@ items:
   - title: flu
     img: https://res.cloudinary.com/wommy/image/upload/v1585944269/annabrab/flu_10mb_asxlch.jpg
     width: 2
-    published:
     tags:
       - 'oil'
       - 'graphite'
@@ -88,21 +75,18 @@ items:
   - title: rivers
     img: https://res.cloudinary.com/wommy/image/upload/v1581530972/annabrab/rivers_pcwkup.jpg
     width: 2
-    published:
     tags:
       - 'oil'
       - 'on canvas'
   - title: error ii
     img: https://res.cloudinary.com/wommy/image/upload/v1581530970/annabrab/error_ii_k4bfdv.jpg
     width: 1
-    published:
     tags:
       - 'oil'
       - 'on canvas'
   - title: error i
     img: https://res.cloudinary.com/wommy/image/upload/v1581530971/annabrab/error_i_dq4lii.jpg
     width: 1
-    published:
     tags:
       - 'oil'
       - 'graphite'
@@ -110,17 +94,81 @@ items:
   - title: markings
     img: https://res.cloudinary.com/wommy/image/upload/v1581530964/annabrab/markings_lue5ot.jpg
     width: 1
-    published:
     tags:
       - 'oil'
       - 'on canvas'
   - title: swarm
     img: https://res.cloudinary.com/wommy/image/upload/v1581530985/annabrab/swarm_dwznmj.jpg
     width: 1
-    published: 
     tags:
       - 'oil'
       - 'collage'
       - 'paste'
       - 'glass'
       - 'on canvas'
+  - title: monoprint 1
+    img: https://res.cloudinary.com/wommy/image/upload/v1581530952/annabrab/monoprint-1_ybofki.jpg
+    width: 1
+    tags:
+      - 'archive'
+      - 'monoprint'
+  - title: monoprint 2
+    img: https://res.cloudinary.com/wommy/image/upload/v1581530953/annabrab/monoprint-2_hgr5fn.jpg
+    width: 1
+    tags:
+      - 'archive'
+      - 'monoprint'
+  - title: monoprint 3
+    img: https://res.cloudinary.com/wommy/image/upload/v1581530956/annabrab/monoprint-3_toobbg.jpg
+    width: 1
+    tags:
+      - 'archive'
+      - 'monoprint'
+  - title: monoprint 4
+    img: https://res.cloudinary.com/wommy/image/upload/v1581530956/annabrab/monoprint-4_d6b8um.jpg
+    width: 1
+    tags:
+      - 'archive'
+      - 'monoprint'
+  - title: cognition
+    img: https://res.cloudinary.com/wommy/image/upload/v1581530961/annabrab/undergrad-cognition_cuehal.png
+    width: 1
+    tags:
+      - 'archive'
+      - 'undergrad'
+  - title: fluid
+    img: https://res.cloudinary.com/wommy/image/upload/v1581530964/annabrab/undergrad-fluid_ua4bvc.png
+    width: 1
+    tags:
+      - 'archive'
+      - 'undergrad'
+  - title: the universe is expanding
+    img: https://res.cloudinary.com/wommy/image/upload/v1581530968/annabrab/undergrad-theUniverseIsExpanding_ef632o.png
+    width: 1
+    tags:
+      - 'archive'
+      - 'undergrad'
+  - title: unda pressha
+    img: https://res.cloudinary.com/wommy/image/upload/v1581530967/annabrab/undergrad-undaPressha_jp0ypp.png
+    width: 1
+    tags:
+      - 'archive'
+      - 'undergrad'
+  - title: untitled 1
+    img: https://res.cloudinary.com/wommy/image/upload/v1581530970/annabrab/undergrad-untitled1_p8pkez.png
+    width: 1
+    tags:
+      - 'archive'
+      - 'undergrad'
+  - title: untitled 2
+    img: https://res.cloudinary.com/wommy/image/upload/v1581530972/annabrab/undergrad-untitled2_fydtlm.png
+    width: 1
+    tags:
+      - 'archive'
+      - 'undergrad'
+  - title: wading
+    img: https://res.cloudinary.com/wommy/image/upload/v1581530972/annabrab/undergrad-wading_fzna24.png
+    width: 1
+    tags:
+      - 'archive'
+      - 'undergrad'
