@@ -11,8 +11,8 @@ collections:
     name: 'art2'
     file: 'data/art.yml'
     fields:
-    - label: "Art3"
-      name: "art3"
+    - label: "Artwork"
+      name: "artwork"
       widget: list
       collapsed: false
       fields:
