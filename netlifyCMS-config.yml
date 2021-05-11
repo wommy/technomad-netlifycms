@@ -14,7 +14,7 @@ collections:
   files:
   - label: 'Art'
     name: 'art'
-    file: 'data/art.yml'
+    file: '_data/art.yml'
     fields:
     - label: 'Items'
       label_singular: 'Item'
