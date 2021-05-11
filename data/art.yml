@@ -1,20 +1,10 @@
-art:
-  - name: scrub
-    img: https://res.cloudinary.com/wommy/image/upload/v1613000980/annabrab/IMG_1239_l8me54.jpg
-    width: 1
-    published: April, 2020
-    tags:
-      - spray paint
-      - enamel
-      - acrylic
-      - on canvas
 artwork:
   - title: scrub
     img: https://res.cloudinary.com/wommy/image/upload/v1613000980/annabrab/IMG_1239_l8me54.jpg
     width: 1
     published: April, 2020
     tags:
-      - '"spray-paint"'
-      - '"enamel"'
-      - '"acrylic"'
-      - '"on-canvas"'
+      - 'spray paint'
+      - 'enamel'
+      - 'acrylic'
+      - 'on canvas'
