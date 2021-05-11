@@ -3,15 +3,15 @@ backend:
   branch: dev
 media_folder: 'static/'
 collections:
-- label: 'Art'
-  name: 'art'
+- label: 'Art1'
+  name: 'art1'
   files:
-  - label: 'Art'
-    name: 'art'
+  - label: 'Art2'
+    name: 'art2'
     file: 'data/art.yml'
     fields:
-    - label: "Art"
-      name: "art"
+    - label: "Art3"
+      name: "art3"
       widget: list
       collapsed: false
       fields:
