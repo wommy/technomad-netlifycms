@@ -30,8 +30,18 @@ collections:
     name: 'archive'
     file: 'data/archive.yml'
     fields:
-    - label: 'Archived'
-      name: 'archived'
+    - label: 'Monoprint'
+      name: 'monoprint'
+      widget: list
+      add_to_top: true
+      fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Image', name: 'img', widget: 'image' }
+      - { label: 'Width', name: 'width', widget: 'number' }
+      - { label: 'Published', name: 'published', widget: 'string' }
+      - { label: 'Tags', name: 'tags', widget: 'list' }
+    - label: 'Undergrad'
+      name: 'undergrad'
       widget: list
       add_to_top: true
       fields:
