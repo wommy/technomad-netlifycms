@@ -2,6 +2,11 @@ backend:
   name: git-gateway
   branch: dev
 media_folder: 'static/'
+media_library:
+  name: cloudinary
+  config:
+    cloud_name: wommy
+    api_key: 162565326766577
 local_backend: true
 collections:
 - label: 'Art1'
@@ -17,7 +22,7 @@ collections:
       collapsed: false
       fields:
       - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Image', name: 'img', widget: 'string' }
+      - { label: 'Image', name: 'img', widget: 'image' }
       - { label: 'Width', name: 'width', widget: 'number' }
       - { label: 'Published', name: 'published', widget: 'string' }
       - { label: 'Tags', name: 'tags', widget: 'list' }
