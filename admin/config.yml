@@ -25,8 +25,8 @@ collections:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Image', name: 'img', widget: 'image' }
       - { label: 'Width', name: 'width', widget: 'number', default: 1 }
-      - { label: 'Published', name: 'published', widget: 'string' }
-      - { label: 'Tags', name: 'tags', widget: 'list' }
+      - { label: 'Published', name: 'published', widget: 'string', required: false }
+      - { label: 'Tags', name: 'tags', widget: 'list', required: false }
   - label: 'Archive'
     name: 'archive'
     file: 'data/archive.yml'
@@ -39,8 +39,8 @@ collections:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Image', name: 'img', widget: 'image' }
       - { label: 'Width', name: 'width', widget: 'number', default: 1 }
-      - { label: 'Published', name: 'published', widget: 'string' }
-      - { label: 'Tags', name: 'tags', widget: 'list' }
+      - { label: 'Published', name: 'published', widget: 'string', required: false }
+      - { label: 'Tags', name: 'tags', widget: 'list', required: false }
     - label: 'Undergrad'
       name: 'undergrad'
       widget: list
@@ -49,5 +49,5 @@ collections:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Image', name: 'img', widget: 'image' }
       - { label: 'Width', name: 'width', widget: 'number', default: 1 }
-      - { label: 'Published', name: 'published', widget: 'string' }
-      - { label: 'Tags', name: 'tags', widget: 'list' }
+      - { label: 'Published', name: 'published', widget: 'string', required: false }
+      - { label: 'Tags', name: 'tags', widget: 'list', required: false }
