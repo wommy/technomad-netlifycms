@@ -34,7 +34,6 @@ collections:
     - label: 'Monoprint'
       name: 'monoprint'
       widget: list
-      add_to_top: true
       fields:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Image', name: 'img', widget: 'image' }
@@ -44,7 +43,6 @@ collections:
     - label: 'Undergrad'
       name: 'undergrad'
       widget: list
-      add_to_top: true
       fields:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Image', name: 'img', widget: 'image' }
