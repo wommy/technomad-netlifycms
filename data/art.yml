@@ -1,3 +1,4 @@
+art: 
 - name: "scrub"
   img: "https://res.cloudinary.com/wommy/image/upload/v1613000980/annabrab/IMG_1239_l8me54.jpg"
   width: 1
@@ -7,119 +8,119 @@
   - "enamel"
   - "acrylic"
   - "on canvas"
-- name: "trash painting 2020"
-  img: "https://res.cloudinary.com/wommy/image/upload/v1613000980/annabrab/2AE30EB5-07AD-46E6-9559-9AD42F52F71E_fx1r9c.jpg"
-  width: 1
-  published: "March, 2020"
-  tags:
-  - "spray paint"
-  - "enamel"
-  - "pen"
-  - "on canvas"
-- name: "errors III"
-  img: "https://res.cloudinary.com/wommy/image/upload/v1598373214/annabrab/3993CB33-BFF3-427C-B70C-6F80377FF5E5_vpq5rj.jpg"
-  width: 2
-  published: "September, 2020"
-  tags:
-- name: "defect"
-  img: "https://res.cloudinary.com/wommy/image/upload/v1595088745/annabrab/defect_vtvklr.jpg"
-  width: 1
-  published: ""
-  tags:
-- name: "celery"
-  img: "https://res.cloudinary.com/wommy/image/upload/v1595088751/annabrab/celery_vswuoz.jpg"
-  width: 1
-  published: ""
-  tags:
-- name: "trash"
-  img: "https://res.cloudinary.com/wommy/image/upload/v1595088748/annabrab/trash_xwobvu.jpg"
-  width: 1
-  published: ""
-  tags:
-- name: "barely sipped"
-  img: "https://res.cloudinary.com/wommy/image/upload/v1581530959/annabrab/barely_sipped_x2zw1d.jpg"
-  width: 1
-  published: ""
-  tags:
-  - "charcoal"
-  - "oil"
-  - "acrylic"
-  - "on canvas"
-- name: "untitled monoprint"
-  img: "https://res.cloudinary.com/wommy/image/upload/v1581530986/annabrab/untitled_monoprint_zrdyg0.jpg"
-  width: 1
-  published: ""
-  tags:
-  - "pastels"
-  - "ink"
-  - "monoprint"
-- name: "idk"
-  img: "https://res.cloudinary.com/wommy/image/upload/v1581530952/annabrab/idk_yf82no.jpg"
-  width: 1
-  published: ""
-  tags:
-  - "collage"
-  - "on canvas"
-- name: "data"
-  img: "https://res.cloudinary.com/wommy/image/upload/v1585947096/annabrab/data_yqfcpf.jpg"
-  width: 1
-  published: ""
-  tags:
-  - "acrylic"
-  - "oil pastel"
-  - "on linen"
-- name: "untitled"
-  img: "https://res.cloudinary.com/wommy/image/upload/v1581530983/annabrab/untitled_l0janl.jpg"
-  width: 1
-  published: ""
-  tags:
-  - "oil"
-  - "paint"
-  - "on canvas"
-- name: "flu"
-  img: "https://res.cloudinary.com/wommy/image/upload/v1585944269/annabrab/flu_10mb_asxlch.jpg"
-  width: 2
-  published: ""
-  tags:
-  - "oil"
-  - "graphite"
-  - "on canvas"
-- name: "rivers"
-  img: "https://res.cloudinary.com/wommy/image/upload/v1581530972/annabrab/rivers_pcwkup.jpg"
-  width: 2
-  published: ""
-  tags:
-  - "oil"
-  - "on canvas"
-- name: "error ii"
-  img: "https://res.cloudinary.com/wommy/image/upload/v1581530970/annabrab/error_ii_k4bfdv.jpg"
-  width: 1
-  published: ""
-  tags:
-  - "oil"
-  - "on canvas"
-- name: "error i"
-  img: "https://res.cloudinary.com/wommy/image/upload/v1581530971/annabrab/error_i_dq4lii.jpg"
-  width: 1
-  published: ""
-  tags:
-  - "oil"
-  - "graphite"
-  - "on canvas"
-- name: "markings"
-  img: "https://res.cloudinary.com/wommy/image/upload/v1581530964/annabrab/markings_lue5ot.jpg"
-  width: 1
-  published: ""
-  tags:
-  - "oil"
-  - "on canvas"
-- name: "swarm"
-  img: "https://res.cloudinary.com/wommy/image/upload/v1581530985/annabrab/swarm_dwznmj.jpg"
-  width: 1
-  published: ""
-  tags:
-  - "oil"
-  - "collage"
-  - "paste"
-  - "glass"
-  - "on canvas"
+# - name: "trash painting 2020"
+#   img: "https://res.cloudinary.com/wommy/image/upload/v1613000980/annabrab/2AE30EB5-07AD-46E6-9559-9AD42F52F71E_fx1r9c.jpg"
+#   width: 1
+#   published: "March, 2020"
+#   tags:
+#   - "spray paint"
+#   - "enamel"
+#   - "pen"
+#   - "on canvas"
+# - name: "errors III"
+#   img: "https://res.cloudinary.com/wommy/image/upload/v1598373214/annabrab/3993CB33-BFF3-427C-B70C-6F80377FF5E5_vpq5rj.jpg"
+#   width: 2
+#   published: "September, 2020"
+#   tags:
+# - name: "defect"
+#   img: "https://res.cloudinary.com/wommy/image/upload/v1595088745/annabrab/defect_vtvklr.jpg"
+#   width: 1
+#   published: ""
+#   tags:
+# - name: "celery"
+#   img: "https://res.cloudinary.com/wommy/image/upload/v1595088751/annabrab/celery_vswuoz.jpg"
+#   width: 1
+#   published: ""
+#   tags:
+# - name: "trash"
+#   img: "https://res.cloudinary.com/wommy/image/upload/v1595088748/annabrab/trash_xwobvu.jpg"
+#   width: 1
+#   published: ""
+#   tags:
+# - name: "barely sipped"
+#   img: "https://res.cloudinary.com/wommy/image/upload/v1581530959/annabrab/barely_sipped_x2zw1d.jpg"
+#   width: 1
+#   published: ""
+#   tags:
+#   - "charcoal"
+#   - "oil"
+#   - "acrylic"
+#   - "on canvas"
+# - name: "untitled monoprint"
+#   img: "https://res.cloudinary.com/wommy/image/upload/v1581530986/annabrab/untitled_monoprint_zrdyg0.jpg"
+#   width: 1
+#   published: ""
+#   tags:
+#   - "pastels"
+#   - "ink"
+#   - "monoprint"
+# - name: "idk"
+#   img: "https://res.cloudinary.com/wommy/image/upload/v1581530952/annabrab/idk_yf82no.jpg"
+#   width: 1
+#   published: ""
+#   tags:
+#   - "collage"
+#   - "on canvas"
+# - name: "data"
+#   img: "https://res.cloudinary.com/wommy/image/upload/v1585947096/annabrab/data_yqfcpf.jpg"
+#   width: 1
+#   published: ""
+#   tags:
+#   - "acrylic"
+#   - "oil pastel"
+#   - "on linen"
+# - name: "untitled"
+#   img: "https://res.cloudinary.com/wommy/image/upload/v1581530983/annabrab/untitled_l0janl.jpg"
+#   width: 1
+#   published: ""
+#   tags:
+#   - "oil"
+#   - "paint"
+#   - "on canvas"
+# - name: "flu"
+#   img: "https://res.cloudinary.com/wommy/image/upload/v1585944269/annabrab/flu_10mb_asxlch.jpg"
+#   width: 2
+#   published: ""
+#   tags:
+#   - "oil"
+#   - "graphite"
+#   - "on canvas"
+# - name: "rivers"
+#   img: "https://res.cloudinary.com/wommy/image/upload/v1581530972/annabrab/rivers_pcwkup.jpg"
+#   width: 2
+#   published: ""
+#   tags:
+#   - "oil"
+#   - "on canvas"
+# - name: "error ii"
+#   img: "https://res.cloudinary.com/wommy/image/upload/v1581530970/annabrab/error_ii_k4bfdv.jpg"
+#   width: 1
+#   published: ""
+#   tags:
+#   - "oil"
+#   - "on canvas"
+# - name: "error i"
+#   img: "https://res.cloudinary.com/wommy/image/upload/v1581530971/annabrab/error_i_dq4lii.jpg"
+#   width: 1
+#   published: ""
+#   tags:
+#   - "oil"
+#   - "graphite"
+#   - "on canvas"
+# - name: "markings"
+#   img: "https://res.cloudinary.com/wommy/image/upload/v1581530964/annabrab/markings_lue5ot.jpg"
+#   width: 1
+#   published: ""
+#   tags:
+#   - "oil"
+#   - "on canvas"
+# - name: "swarm"
+#   img: "https://res.cloudinary.com/wommy/image/upload/v1581530985/annabrab/swarm_dwznmj.jpg"
+#   width: 1
+#   published: ""
+#   tags:
+#   - "oil"
+#   - "collage"
+#   - "paste"
+#   - "glass"
+#   - "on canvas"
