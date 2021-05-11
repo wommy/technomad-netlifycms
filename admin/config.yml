@@ -2,6 +2,7 @@ backend:
   name: git-gateway
   branch: dev
 media_folder: 'static/'
+local_backend: true
 collections:
 - label: 'Art1'
   name: 'art1'
@@ -16,7 +17,7 @@ collections:
       collapsed: false
       fields:
       - { label: 'Name', name: 'name', widget: 'string' }
-      - { label: 'Image', name: 'img', widget: 'string' }
-      - { label: 'Width', name: 'width', widget: 'number' }
-      - { label: 'Published', name: 'published', widget: 'string' }
-      - { label: 'Tags', name: 'tags', widget: 'list' }
+      # - { label: 'Image', name: 'img', widget: 'string' }
+      # - { label: 'Width', name: 'width', widget: 'number' }
+      # - { label: 'Published', name: 'published', widget: 'string' }
+      # - { label: 'Tags', name: 'tags', widget: 'list' }
