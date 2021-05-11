@@ -19,7 +19,6 @@ collections:
     - label: "Artwork"
       name: "artwork"
       widget: list
-      collapsed: false
       add_to_top: true
       fields:
       - { label: 'Title', name: 'title', widget: 'string' }
