@@ -17,14 +17,14 @@ collections:
     file: 'data/art.yml'
     fields:
     - label: 'Items'
-      label_singular: 'item'
+      label_singular: 'Item'
       name: 'items'
       widget: list
       add_to_top: true
       fields:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Image', name: 'img', widget: 'image' }
-      - { label: 'Width', name: 'width', widget: 'number' }
+      - { label: 'Width', name: 'width', widget: 'number', default: 1 }
       - { label: 'Published', name: 'published', widget: 'string' }
       - { label: 'Tags', name: 'tags', widget: 'list' }
   - label: 'Archive'
@@ -38,7 +38,7 @@ collections:
       fields:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Image', name: 'img', widget: 'image' }
-      - { label: 'Width', name: 'width', widget: 'number' }
+      - { label: 'Width', name: 'width', widget: 'number', default: 1 }
       - { label: 'Published', name: 'published', widget: 'string' }
       - { label: 'Tags', name: 'tags', widget: 'list' }
     - label: 'Undergrad'
@@ -48,6 +48,6 @@ collections:
       fields:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Image', name: 'img', widget: 'image' }
-      - { label: 'Width', name: 'width', widget: 'number' }
+      - { label: 'Width', name: 'width', widget: 'number', default: 1 }
       - { label: 'Published', name: 'published', widget: 'string' }
       - { label: 'Tags', name: 'tags', widget: 'list' }
