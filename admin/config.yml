@@ -22,8 +22,8 @@ collections:
       widget: list
       add_to_top: true
       fields:
-      - { label: 'Title', name: 'title', widget: 'string', default: '' }
-      - { label: 'Image', name: 'img', widget: 'image', default: '' }
-      - { label: 'Width', name: 'width', widget: 'number', default: 1 }
-      - { label: 'Published', name: 'published', widget: 'string', required: false }
-      - { label: 'Tags', name: 'tags', widget: 'list', required: false }
+      - { label: 'Title', name: 'title', widget: 'string', default: '', hint: 'artwork name' }
+      - { label: 'Image', name: 'img', widget: 'image', default: '', hint: 'check the checkbox, then click insert' }
+      - { label: 'Width', name: 'width', widget: 'number', default: 1, hint: '2 for landscape' }
+      - { label: 'Published', name: 'published', widget: 'string', required: false, hint: 'Month, Year' }
+      - { label: 'Tags', name: 'tags', widget: 'list', required: false, hint: 'media, separated by commas' }
