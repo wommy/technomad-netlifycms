@@ -17,7 +17,7 @@ collections:
       collapsed: false
       fields:
       - { label: 'Title', name: 'title', widget: 'string' }
-      # - { label: 'Image', name: 'img', widget: 'string' }
-      # - { label: 'Width', name: 'width', widget: 'number' }
-      # - { label: 'Published', name: 'published', widget: 'string' }
-      # - { label: 'Tags', name: 'tags', widget: 'list' }
+      - { label: 'Image', name: 'img', widget: 'string' }
+      - { label: 'Width', name: 'width', widget: 'number' }
+      - { label: 'Published', name: 'published', widget: 'string' }
+      - { label: 'Tags', name: 'tags', widget: 'list' }
