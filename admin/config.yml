@@ -16,8 +16,9 @@ collections:
     name: 'art'
     file: 'data/art.yml'
     fields:
-    - label: 'Artwork'
-      name: 'artwork'
+    - label: 'Items'
+      label_singular: 'item'
+      name: 'items'
       widget: list
       add_to_top: true
       fields:
