@@ -8,11 +8,11 @@
 </head>
 
 <body>
-	<!-- <script src="https://unpkg.com/netlify-cms/dist/netlify-cms.js"></script> -->
+	<script src="https://unpkg.com/netlify-cms/dist/netlify-cms.js"></script>
 	<script type="module">
 		window.CMS_MANUAL_INIT = true
-		import CMS, { init } from 'https://unpkg.com/netlify-cms/dist/netlify-cms.js'
-		// const { CMS, initCMS: init } = window
+		// import CMS, { init } from 'https://unpkg.com/netlify-cms/dist/netlify-cms.js'
+		const { CMS, initCMS: init } = window
 		init({
 			config: {
 				backend: { name: 'git-gateway', branch: 'dev', }, load_config_file: false, media_folder: 'static/', local_backend: true,
