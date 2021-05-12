@@ -1,0 +1,52 @@
+backend:
+  name: git-gateway
+  branch: dev
+media_folder: 'static/'
+local_backend: true
+# media_library:
+#   name: cloudinary
+#   config:
+#     cloud_name: wommy
+#     api_key: 162565326766577
+collections:
+- label: 'Files'
+  name: 'files'
+  files:
+  - label: 'Meta'
+    name: 'meta'
+    file: '_data/meta.yml'
+    fields:
+    - label: 'Title'
+      name: 'title'
+      widget: 'string'
+    - label: 'Email'
+      name: 'email'
+      widget: 'string'
+    - label: 'Studio Address'
+      name: 'studio_addr'
+      widget: 'string'
+    - label: 'CV'
+      name: 'cv'
+      widget: 'list'
+      add_to_top: true
+      fields:
+      - { label: 'What', name: 'what', widget: 'string', hint: 'event name' }
+      - { label: 'Tag', name: 'tag', widget: 'string', hint: 'employment |OR| experience |OR| education' }
+      - { label: 'When', name: 'when', widget: 'string', hint: 'YYYY, Mon |OR| newer-older' }
+      - { label: 'Where', name: 'where', widget: 'list', hint: 'event location, city, state', required: false }
+  - label: 'Art'
+    name: 'art'
+    file: '_data/art.yml'
+    fields:
+    - label: 'Items'
+      label_singular: 'Item'
+      name: 'items'
+      widget: 'list'
+      summary: '{{fields.title}}'
+      add_to_top: true
+      fields:
+      - { label: 'Image', name: 'img', widget: 'image', default: '', hint: 'check the checkbox, then click insert' }
+      - { label: 'Title', name: 'title', widget: 'string', default: '', hint: 'artwork name' }
+      - { label: 'Width', name: 'width', widget: 'number', default: 1, hint: '2 for landscape' }
+      - { label: 'Published', name: 'published', widget: 'string', required: false, hint: 'Month, Year' }
+      - { label: 'Tags', name: 'tags', widget: 'list', required: false, hint: 'media, separated by commas' }
