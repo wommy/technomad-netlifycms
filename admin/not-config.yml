@@ -3,11 +3,11 @@ backend:
   branch: dev
 media_folder: 'static/'
 local_backend: true
-# media_library:
-#   name: cloudinary
-#   config:
-#     cloud_name: wommy
-#     api_key: 162565326766577
+media_library:
+  name: cloudinary
+  config:
+    cloud_name: wommy
+    api_key: 162565326766577
 collections:
 - label: 'Files'
   name: 'files'
